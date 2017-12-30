@@ -4,6 +4,7 @@
 
     <a class="site-title" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
 
+    <!-- Creates a list of pages within the site for navigation. For some reason github's jekyll picks up the home page while standard jekyll does not. Turning this off for now.
     <nav class="site-nav">
       <div>
         {% for my_page in site.pages %}
@@ -12,7 +13,7 @@
           {% endif %}
         {% endfor %}
       </div>
-    </nav>
+    </nav> -->
 
   </div>
 
