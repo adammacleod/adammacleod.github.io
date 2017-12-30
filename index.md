@@ -5,13 +5,13 @@
 layout: home
 ---
 
-## I am a
+## Welcome
 
-- <strong>Computer Scientist</strong> by degree
-- <strong>Future Psychologist</strong> in training
-- <strong>Tinkerer</strong> on various projects
+Hi, my name is Adam and I enjoy thinking about big ideas. I am a <strong>Computer Scientist</strong> by degree, a <strong>Future Psychologist</strong> in training, and a lifelong <strong>Tinkerer</strong> on various projects. 
 
-I enjoy walking, programming, motorbikes, cars, and music. This website is a collection of things I find interesting. Get in touch below.
+I enjoy hiking, camping, fishing, programming, motorbikes, cars, and music. 
+
+This website is a collection of things I find interesting and have had time to write about. If you'd like to talk about anything you can find my contact details in the footer below.
 
 
 ## Writings
