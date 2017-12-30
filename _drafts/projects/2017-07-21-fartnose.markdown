@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Making Toys"
+date:   2017-07-21 03:05:15 +1000
+categories: projects
+hero: /assets/images/posts/fartnose/hero.jpg
+---
+
+Ladies and Gentlemen, I present today for your kind attention, the Jerry's House Funny Button! 
+
+![Jerry's House](/assets/images/posts/fartnose/pro-fartnose-2.jpg){:class="post-img"}
+
+Originally known as the "Fart Nose" the button was dreamed, invented, and concepted by [Lochie Graham](http://www.heraldsun.com.au/news/victoria/lochie-graham-13-brings-joy-laughter-to-sick-kids-in-new-york-with-his-laughing-gadgets/news-story/856f9160537e99feb47d0ac40b0bd412), and put into the hands of many by the charity he co-founded with famous comedian Jerry Lewis: [Jerry's House](https://www.jerryshouse.net/).
+
+What is it, you say? Well, it's a button! That.. makes funny noises when you press it (mostly farts). Why do this? Well, Jerry's House believes in the healing power of laughter and as a part of their mission they have developed a number of toys which aim to improve the quality of hospital visits for sick and disadvantaged children. The Fart Nose is designed to mount to the wall of a hospital room and allows children to lighten the mood and have a laugh during their stay in hospital. In particular, the Fart Nose is great for siblings who otherwise might find it difficult to contribute in a meaningful way during a hospital visit and may otherwise be overlooked.
+
+My job in the project was the design and manufacture the button which would be used to fulfil the pilot program ahead of the planned shipment of mass manufactured buttons. In this post I will detail the steps I took designing and building the first shipment of buttons. If you would like any extra information, or feel that I left anything out then be sure to get in touch (details in the footer below).
+
+### OpenSCAD Design
+
+![](/assets/images/posts/fartnose/design.png){:class="post-img"}
+
+### Electronics Design
+
+![](/assets/images/posts/fartnose/brains.png){:class="post-img"}
+
+### Prototyping
+
+![](/assets/images/posts/fartnose/proto.jpg){:class="post-img"}
+
+### Assembly
+
+![](/assets/images/posts/fartnose/build.jpg){:class="post-img"}
+
+
+![](/assets/images/posts/fartnose/messy.png){:class="post-img"}
+
+### Completed Product
+
+![The Fartnose!](/assets/images/posts/fartnose/pro-fartnose.png){:class="post-img"}

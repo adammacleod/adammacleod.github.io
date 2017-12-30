@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="home">
+ 
+  {{ content }}
+
+  {% assign sorted_categories = site.categories | sort %}
+  {% for category in sorted_categories %}
+    {% assign category_name = category | first %}
+    {% assign posts = category | last %}
+
+    <strong>{{ category_name | capitalize }}</strong>
+    <ul class="post-list">
+      {% for post in posts %}
+        {% if post.categories contains category_name %}
+          <li>
+            <small><span class="date">{{ post.date | date: "%b %Y"  }}</span></small>
+            <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% endfor %}
+</div>
