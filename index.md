@@ -7,7 +7,7 @@ layout: home
 
 ## Welcome
 
-Hi, my name is Adam and I enjoy thinking about big ideas. I am a <strong>Computer Scientist</strong> by degree, a <strong>Future Psychologist</strong> in training, and a lifelong <strong>Tinkerer</strong> on various projects. 
+Hi, my name is Adam and I enjoy thinking about big ideas. I am a <strong>Computer Scientist</strong> by degree, an aspiring <strong>Psychologist</strong>, and a lifelong <strong>Tinkerer</strong>. 
 
 I enjoy hiking, camping, fishing, programming, motorbikes, cars, and music. 
 
