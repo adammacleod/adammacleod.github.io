@@ -7,9 +7,9 @@ layout: home
 
 ## Welcome
 
-Hi, my name is Adam and I enjoy thinking about big ideas. I am a <strong>Computer Scientist</strong> by degree, an aspiring <strong>Psychologist</strong>, and a lifelong <strong>Tinkerer</strong>. 
+Hi, my name is Adam and I enjoy thinking about big ideas. I am a <strong>Computer Scientist</strong> by degree, an aspiring <strong>Speaker Designer</strong>, and a lifelong <strong>Tinkerer</strong>. 
 
-I enjoy hiking, camping, fishing, programming, motorbikes, cars, and music. 
+I enjoy speaker design and fabrication, hiking, camping, programming, motorbikes, cars, and music. 
 
 This website is a collection of things I find interesting and have had time to write about. If you'd like to talk about anything you can find my contact details in the footer below.
 
